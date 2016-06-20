@@ -17,6 +17,7 @@
 		C32B72851D1865F700B67EF7 /* TMS.json in Resources */ = {isa = PBXBuildFile; fileRef = C32B72841D1865F600B67EF7 /* TMS.json */; settings = {ASSET_TAGS = (); }; };
 		C32B72871D18689E00B67EF7 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B72861D18689E00B67EF7 /* Artwork.swift */; settings = {ASSET_TAGS = (); }; };
 		C32B72891D186D0500B67EF7 /* VCMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B72881D186D0500B67EF7 /* VCMapView.swift */; settings = {ASSET_TAGS = (); }; };
+		C32B728B1D18779F00B67EF7 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B728A1D18779F00B67EF7 /* JSON.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C32B72841D1865F600B67EF7 /* TMS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TMS.json; sourceTree = "<group>"; };
 		C32B72861D18689E00B67EF7 /* Artwork.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
 		C32B72881D186D0500B67EF7 /* VCMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCMapView.swift; sourceTree = "<group>"; };
+		C32B728A1D18779F00B67EF7 /* JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 		C32B72831D18624C00B67EF7 /* Art Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C32B728A1D18779F00B67EF7 /* JSON.swift */,
 				C32B72841D1865F600B67EF7 /* TMS.json */,
 			);
 			name = "Art Supporting Files";
@@ -274,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C32B72891D186D0500B67EF7 /* VCMapView.swift in Sources */,
+				C32B728B1D18779F00B67EF7 /* JSON.swift in Sources */,
 				C32B72581D185F5F00B67EF7 /* ViewController.swift in Sources */,
 				C32B72871D18689E00B67EF7 /* Artwork.swift in Sources */,
 				C32B72561D185F5F00B67EF7 /* AppDelegate.swift in Sources */,

@@ -36,6 +36,8 @@ class ViewController: UIViewController {
   
         
         mapView.addAnnotation(artwork)
+        
+        mapView.delegate = self
 
     }
 

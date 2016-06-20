@@ -31,4 +31,12 @@ extension ViewController: MKMapViewDelegate {
         }
         return nil
     }
+    
+    
+    func mapView(mapView: MKMapView!, annotationView view: MKAnnotationView!,
+        calloutAccessoryControlTapped control: UIControl!) {
+            let location = view.annotation as! Artwork
+            let launchOptions = [MKLaunchOptionsDirectionsModeKey: MKLaunchOptionsDirectionsModeDriving]
+            location.mapItem().openInMapsWithLaunchOptions(launchOptions)
+    }
 }
