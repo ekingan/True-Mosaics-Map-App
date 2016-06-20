@@ -1,0 +1,928 @@
+{
+   "Document": {
+      "name": "True Mosaics Studio: INTERNATIONAL MOSAIC TOUR",
+      "description": "Take a tour of public mosaic work by Laurel True/ True Mosaics Studio and The Global Mosaic Project. Map contains over a hundred public projects, in over 80 locations.",
+      "Folder": {
+         "name": "Untitled layer",
+         "Placemark": [
+            {
+               "name": "Twin Thrones",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/tIqXqdT_qFpVM3N4tpvLYwewaBUDlMy5iRzBCx4lFrNbt5X7rJPEDDf8wkj5xKLs5YLkgJfK2CY30UqOyUPMSmLnY3gyKAyHw0pP6IHT8g\" height=\"200\" width=\"auto\" /><br><br>Duboce Triangle/Haight: Duboce Park<br> Playground, Duboce @ Scott St.<br> Sculptural Mosaic Bench 3’ x 12’ 2002",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/tIqXqdT_qFpVM3N4tpvLYwewaBUDlMy5iRzBCx4lFrNbt5X7rJPEDDf8wkj5xKLs5YLkgJfK2CY30UqOyUPMSmLnY3gyKAyHw0pP6IHT8g"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.435074,37.770172,0.0"
+               }
+            },
+            {
+               "name": "Mission Creek Mural",
+               "description": "<img src=\"https://lh6.googleusercontent.com/proxy/KFH5EH-N0ZwZ0iJ8LT4-81IkOeoBSg-UUc3CncowOnsBqHzcmHfRtclw8DYf9T75X3WfsxIvuREI4oPsFfYJtvjmmBYv-Yu9Eua2AOf56w\" height=\"200\" width=\"auto\" /><br><br>16th and Harrison St. San Francisco<br>Mosaic Mural 15’ x 8.5’<br>Collaboration with Lillian Sizemore 1999",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh6.googleusercontent.com/proxy/KFH5EH-N0ZwZ0iJ8LT4-81IkOeoBSg-UUc3CncowOnsBqHzcmHfRtclw8DYf9T75X3WfsxIvuREI4oPsFfYJtvjmmBYv-Yu9Eua2AOf56w"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.413122,37.765304,0.0"
+               }
+            },
+            {
+               "name": "Baobab Village",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/gSNZPnj4o0RVPQA6jv2uAlNK8o5sIt0O4CNdPXXEcit90_vGdYylp9S2sOWAGfM2VAHV-eVDea0cD0zorp0amurPqSWbF8a6ZqSAJjb-EkSkbbw\" height=\"200\" width=\"auto\" /><br><br>3388 19th at Mission St.<br>African inspired mosaic bar mural<br>Collaboration with Lillian Sizemore 1999",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/gSNZPnj4o0RVPQA6jv2uAlNK8o5sIt0O4CNdPXXEcit90_vGdYylp9S2sOWAGfM2VAHV-eVDea0cD0zorp0amurPqSWbF8a6ZqSAJjb-EkSkbbw"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.418959,37.76001,0.0"
+               }
+            },
+            {
+               "name": "Bounte Bouday War (Mysterious Door) Mural",
+               "description": "La Solea Café- 3376 19th at Mission St.<br>Mosaic Wall Mural 8’ x 8’<br>Produced with Lillian Sizemore 2004",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.418637,37.760078,0.0"
+               }
+            },
+            {
+               "name": "St. Boniface Church",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/MrbGdByTmN0W53cWz2wLZPWaAjr5hrXH9_pFyerpOlNkDwDpVQR2_zUmeCYziozoeLHA9OYYMmEepZ_jHAn7znmtuSddySaLOlvlPxaEsbNJSCwt\" height=\"200\" width=\"auto\" /><br><br>133 Golden Gate Ave. 94102<br>Series of 15 Mosaic and Malibu Tile Murals 2004.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/MrbGdByTmN0W53cWz2wLZPWaAjr5hrXH9_pFyerpOlNkDwDpVQR2_zUmeCYziozoeLHA9OYYMmEepZ_jHAn7znmtuSddySaLOlvlPxaEsbNJSCwt"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.412757,37.781841,0.0"
+               }
+            },
+            {
+               "name": "Circles Mural",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/FzCRg09_f1agMZECllroIarxgHf1NjM10fdj06bCwotbHVxvH3Yz0rBbL_CCh74nra9EtN_TntX45fdSp957EELDP6hkuyDcqQRMcoB8DmmemPA\" height=\"200\" width=\"auto\" /><br><br>Marlton Manor, 240 Jones at Eddy<br>Interior Mosaic Mural in dining area 7’ x 4’ 2002",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/FzCRg09_f1agMZECllroIarxgHf1NjM10fdj06bCwotbHVxvH3Yz0rBbL_CCh74nra9EtN_TntX45fdSp957EELDP6hkuyDcqQRMcoB8DmmemPA"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.41245700000002,37.78318,0.0"
+               }
+            },
+            {
+               "name": "Velocity Circus Museum",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/Gs7jfN22-J5Buk-dfAwCNr6jkelE9n0vwAGOaBrldTMaaub1f6hJya9lQd3FJ2Nh-4Lzmy7_IrsemkCH3Wc-2lq6aUHf5WlFxO3p4rS5QKbpJIU\" height=\"200\" width=\"auto\" /><br><br>225 San Leandro Way (by Appointment Only)<br>Over 25 interior and exterior<br>architectural mosaics throughout<br>Museum, including floors, walls,<br>ceilings, 2 bathrooms, kitchen<br>backsplashes, maze hallway, inset<br>furniture, windows insets and doors,<br>patios, stairs and UFO landing pad on<br>roof. 2000- 2013.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/Gs7jfN22-J5Buk-dfAwCNr6jkelE9n0vwAGOaBrldTMaaub1f6hJya9lQd3FJ2Nh-4Lzmy7_IrsemkCH3Wc-2lq6aUHf5WlFxO3p4rS5QKbpJIU"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.468698,37.732643,0.0"
+               }
+            },
+            {
+               "name": "Sycamore Park Playground",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/DGG0MyhvT-47pYg1A2tzTPGIbtWWn3hOIwt6PZgXYYj9BnMpT5d5Px99B9pdiPKcqNOLuY5rPGzyGxhn9jofe5OX9CVpy6gveS-nqg\" height=\"200\" width=\"auto\" /><br><br>Sycamore St. at Valley Circle, Mill Valley.<br>Stinson Beach Sandbox <br>Mosaic sandbox surround 2’ x approx.<br>100 ft. and Tot Lot Sign, 4’ x 5’<br>Both created with neighborhood and<br>student volunteers during “Community<br>Build” with Sycamore Park Assn and<br>Leathers & Associates 2006.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/DGG0MyhvT-47pYg1A2tzTPGIbtWWn3hOIwt6PZgXYYj9BnMpT5d5Px99B9pdiPKcqNOLuY5rPGzyGxhn9jofe5OX9CVpy6gveS-nqg"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.533736,37.897275,0.0"
+               }
+            },
+            {
+               "name": "Mosaic Dolphin Sculpture",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/VlIjwl4l_eqb0vJUfwTFFB3ct1_tFVa1YFrb10UnPnau76LDto4Ymqtzt2Uwb0Ga3HnOSOiwEKSh8_s6huF2vndhVcKohXbRiqfCpzXdsw\" height=\"200\" width=\"auto\" /><br><br>Bertha Port Park 11th and Wood St., Oakland<br>Created in part with neighborhood youth<br>for the Trust for Public Land 2006.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/VlIjwl4l_eqb0vJUfwTFFB3ct1_tFVa1YFrb10UnPnau76LDto4Ymqtzt2Uwb0Ga3HnOSOiwEKSh8_s6huF2vndhVcKohXbRiqfCpzXdsw"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.29946,37.808427,0.0"
+               }
+            },
+            {
+               "name": "The Crucible",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/fKWRlghtp1DL2F3Fya5b-VrA9DrsB46azMrUhoGuKJjcVmhE3nmLY2cQq08jYJTdqb-OLMCFHc40t9wVxc5yNTrZ7lfNbPdHlnb26l38APr2EdY\" height=\"200\" width=\"auto\" /><br><br>1260 7th St at Union St. Oakland.<br>Mosaic Mural on building facade 6’x6’<br>Created with students from Laurel True’s<br>Mural Making Intensive Class 2004.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/fKWRlghtp1DL2F3Fya5b-VrA9DrsB46azMrUhoGuKJjcVmhE3nmLY2cQq08jYJTdqb-OLMCFHc40t9wVxc5yNTrZ7lfNbPdHlnb26l38APr2EdY"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.290385,37.804121,0.0"
+               }
+            },
+            {
+               "name": "Velocity Circus Arts Mural",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/2NawPmeNUd16FfgeR0x_0Vil6ozr5Iy8-kp5mrwCN_fCBJJ8ZP1FoQDKdqVu3bOiS3TjFq8NxcKDEDXPQHZ8oqRmn96x1iNaB4FEA7wRCNSJHsM\" height=\"200\" width=\"auto\" /><br><br>Children United By Experience HQ/ <br>1824 9th St. and Wood St, Oakland.<br>Interior Mosaic Mural 4’ x 7’<br>Created with students from Laurel True’s<br>Mural Making Intensive Class 2005.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/2NawPmeNUd16FfgeR0x_0Vil6ozr5Iy8-kp5mrwCN_fCBJJ8ZP1FoQDKdqVu3bOiS3TjFq8NxcKDEDXPQHZ8oqRmn96x1iNaB4FEA7wRCNSJHsM"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.301693,37.809801,0.0"
+               }
+            },
+            {
+               "name": "Oakland Arts",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/Gatmxhx6KJWyP3Oeewdq74WRw00TqRizppWuh1GKiPKz6MEadjlSbztOyWzhk1KSPQmyhLDyxzmEHq86O0ybZqY8c2pa7U7YRxFS9qfefUY\" height=\"200\" width=\"auto\" /><br><br>Market Square Murals 9th and Clay St. Oakland.<br>Series of 6 mosaic murals entitled<br>Oakland Arts: Music, Dance, Innovation and Poetry (each15’ x 20”), Craft and Line & Form (each 16’ x 4’).",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/Gatmxhx6KJWyP3Oeewdq74WRw00TqRizppWuh1GKiPKz6MEadjlSbztOyWzhk1KSPQmyhLDyxzmEHq86O0ybZqY8c2pa7U7YRxFS9qfefUY"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.275728,37.801765,0.0"
+               }
+            },
+            {
+               "name": "Fruitvale Pots",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/zw-brNRIY5TvDg8YU9ltB8NVOSVML1pApFNGNoYtRBDoGrqj2fKXptYizi7keyijqTuLcYUe8G_UjzG84TmJvcx5HJx9-cCIbhE28Q\" height=\"200\" width=\"auto\" /><br><br>International Blvd. between Fruitvale and High St., Oakland.<br>Series of 30 large mosaic planters 2003.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/zw-brNRIY5TvDg8YU9ltB8NVOSVML1pApFNGNoYtRBDoGrqj2fKXptYizi7keyijqTuLcYUe8G_UjzG84TmJvcx5HJx9-cCIbhE28Q"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.225583,37.777397,0.0"
+               }
+            },
+            {
+               "name": "Institute of Mosaic Art - Building Façade",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/vFA7FYl3VCdxPFymITgGwljlSDDNUFYCiwOETM02zMcq63KByhTc9EyWjkmNYZNCBlsnqdLbq0xh-xGnHcB1YowdVjAKpUpudZuMmMxJvA\" height=\"200\" width=\"auto\" /><br><br>3001 Chapman St. at Derby St. Oakland.<br>Mosaic Mural on Building Façade 2006-2007 <br>Foil Town 8’ x 40’.<br>Created in part by Laurel True’s Mosaic<br>Mural Making Intensive students 2006<br>and by community and student volunteers.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/vFA7FYl3VCdxPFymITgGwljlSDDNUFYCiwOETM02zMcq63KByhTc9EyWjkmNYZNCBlsnqdLbq0xh-xGnHcB1YowdVjAKpUpudZuMmMxJvA"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.23122600000002,37.772564,0.0"
+               }
+            },
+            {
+               "name": "Lopez Pallets Mural",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/CN3PFEfOEqOF313JsvLOR7gUKi5JCU64v2j3Pys1SO85zk0hogiJ9bLtuYl4quiUV_6Dib-Dut7jFnAqPewTuzrUFVtAu_dULu4mhH3sLgg\" height=\"200\" width=\"auto\" /><br><br>616 Derby St. at Chapman St. Oakland.<br>Mosaic Mural 3’x 3’.<br>Created by Laurel True’s Mosaic Mural<br>Making Intensive students 2006.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/CN3PFEfOEqOF313JsvLOR7gUKi5JCU64v2j3Pys1SO85zk0hogiJ9bLtuYl4quiUV_6Dib-Dut7jFnAqPewTuzrUFVtAu_dULu4mhH3sLgg"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.231183,37.772579,0.0"
+               }
+            },
+            {
+               "name": "Free Wood",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/eISn0_XbMc_IS_cT1IYDCCTZv2GtXrRMlXcC-Kp5T4SzWDVeFjlHw-3JA5BA1VMtuSxxaWwbD6UccbZ1rXYEg7U1s6Oiw851DaVUinxQalI\" height=\"200\" width=\"auto\" /><br><br>Chapman St. at Derby St. Oakland.<br>Mosaic Mural Diptych 10 ‘ x 12’ and 10’ x 16’ 2004-07.<br>Partial production by Laurel True’s<br>students and community volunteers.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/eISn0_XbMc_IS_cT1IYDCCTZv2GtXrRMlXcC-Kp5T4SzWDVeFjlHw-3JA5BA1VMtuSxxaWwbD6UccbZ1rXYEg7U1s6Oiw851DaVUinxQalI"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.231375,37.772461,0.0"
+               }
+            },
+            {
+               "name": "Pat’s Bench",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/yr5qIWHt1fz9OvNmMd_-9vKiP-FGGHF1bMMr0Qaxtcj-OvSfPgH0taA2K446tgPLFVm7v2j0onMzbwqB68rX8nq1s7aJETA6weKW3J8\" height=\"200\" width=\"auto\" /><br><br>Kottinger Park, Kottinger Drive, Pleasanton.<br>Sculptural Mosaic Bench 6’ x 4’ x 2’ 2000.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/yr5qIWHt1fz9OvNmMd_-9vKiP-FGGHF1bMMr0Qaxtcj-OvSfPgH0taA2K446tgPLFVm7v2j0onMzbwqB68rX8nq1s7aJETA6weKW3J8"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-121.859536,37.65746,0.0"
+               }
+            },
+            {
+               "name": "Milpitas City Seal",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/Ixo6oZpf-XZUtv9ZxYaqz9qrfc3UxVN9t2LMD1ELx-s-I7sX33HYsTsmVFLm6tSGMsXn9CjRklEezUgs9uvUkSc4WZyEAEUGM7et4N3g1JyVleFX\" height=\"200\" width=\"auto\" /><br><br>Milpitas City Hall 455 E Calaveras Blvd.<br>Interior Mosaic Plaque/Mural 2002.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/Ixo6oZpf-XZUtv9ZxYaqz9qrfc3UxVN9t2LMD1ELx-s-I7sX33HYsTsmVFLm6tSGMsXn9CjRklEezUgs9uvUkSc4WZyEAEUGM7et4N3g1JyVleFX"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-121.897902,37.432375,0.0"
+               }
+            },
+            {
+               "name": "Starscape Bench",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/2ik8hC5MFD8NA1139Ck18dFix72iToQoeGtAie9qfKjyNhqAeYzDo-lBp0BbDCm_zVbhEzzQtzLprAMo6RCy0FvXnWSuY7EXPjA7xA\" height=\"200\" width=\"auto\" /><br><br>Starlite Park, Abbott St. at E. Calaveras Blvd., Milpitas.<br>Sculptural Mosaic Bench 7.5’ diameter x 20” 2006.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/2ik8hC5MFD8NA1139Ck18dFix72iToQoeGtAie9qfKjyNhqAeYzDo-lBp0BbDCm_zVbhEzzQtzLprAMo6RCy0FvXnWSuY7EXPjA7xA"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-121.91481100000001,37.42980200000001,0.0"
+               }
+            },
+            {
+               "name": "Colorful Richmond- A Historical Perspective",
+               "description": "<img src=\"https://lh6.googleusercontent.com/proxy/MWwVJ0Lwi_zh4fGg1yhP8_JENGWr57n9l-MS8a_kukUXHH-Skr5bTWR8zGgcN_3PIljXYHmCrPixXbfxEdiQnw4RJ-CJFkEbM8dUr6D8CTg\" height=\"200\" width=\"auto\" /><br><br>Harbor Way Murals/Long’s Drug Store,<br>2151 Meeker Ave.,  off Marina Bay Pkwy.<br>exit from 580 W. in Richmond.<br>Series of 8 mosaic murals depicting<br>stylized scenes from Richmond’s<br>History 5’ x 2’ to 5’ x 3.5’ 2002.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh6.googleusercontent.com/proxy/MWwVJ0Lwi_zh4fGg1yhP8_JENGWr57n9l-MS8a_kukUXHH-Skr5bTWR8zGgcN_3PIljXYHmCrPixXbfxEdiQnw4RJ-CJFkEbM8dUr6D8CTg"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.336004,37.919555,0.0"
+               }
+            },
+            {
+               "name": "Marina Bay Murals-  Scenic Richmond",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/NCN8WMcvOiY0WMd-650KBMuqHjJgAHCiL-J0fK4UaLMuPttedojsuQ61lWfhX_6PY5Fg3ubnhvKpjdcugJ_o_ChIBlJHqMbr9d-ATgkVMSIKJA\" height=\"200\" width=\"auto\" /><br><br>Marina Bay Pkwy exit from 580 W<br>Across Street from Harbor Way Murals.<br>Series of three (including one diptych)<br>mosaic murals depicting stylized<br>scenes of contemporary Richmond.<br>5’ x 2’ to 5’ x 3’, 2006.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/NCN8WMcvOiY0WMd-650KBMuqHjJgAHCiL-J0fK4UaLMuPttedojsuQ61lWfhX_6PY5Fg3ubnhvKpjdcugJ_o_ChIBlJHqMbr9d-ATgkVMSIKJA"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.336004,37.919521,0.0"
+               }
+            },
+            {
+               "name": "World Path Mural",
+               "description": "<img src=\"https://lh5.googleusercontent.com/proxy/WQBWQbXfyRUB1xWdBM6Q5-EOpHTW--e8lyfuqm1-hAZBejDo5WIbV9pcaGuxw2cFhXiijRNX8uS3gZ-stpaBL5OjXiM5G10_fL2gq__6uw6-XjCR\" height=\"200\" width=\"auto\" /><br><br>Berkeley High School – 2223 MLK Jr. Way.<br>8’ x 4’ mosaic mural.<br>Created with high school students 1998.",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh5.googleusercontent.com/proxy/WQBWQbXfyRUB1xWdBM6Q5-EOpHTW--e8lyfuqm1-hAZBejDo5WIbV9pcaGuxw2cFhXiijRNX8uS3gZ-stpaBL5OjXiM5G10_fL2gq__6uw6-XjCR"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.27262800000001,37.868264,0.0"
+               }
+            },
+            {
+               "name": "L'Hopital Universitairre de Mirebalais",
+               "description": "Mirebalais Hospital, Mirebalais,Haiti.<br>Tropical Flowers Mural<br>Mosaic Seat Wall<br>Inset pavement logo<br>Projects designed by Laurel True and executed by True Mosaics Studio. Major production assistance by Mario Jeudi, Osner Jean Louis, Denis Bolivard, Cassius Smith and Johnsky Chrispin. 2012",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.113566,18.83685,0.0"
+               }
+            },
+            {
+               "name": "Pediatric Ward and Children's Playroom at Mirebalais Hospital",
+               "description": "Mirebalais Hospital, Haiti. <br>Over 18 separate mosaic projects including murals, wall treatments, signage and decorative elements.<br>Cross-cultural design development project for the pediatric ward with schoolchildren from Mirebalais and Los Angeles, California. In partnership with the Global Mosaic Project<br>Over 100 artists from the US, France and Haiti contributed elements to this project.<br>Major production assistance by Mario Jeudi, Osner Jean Louis, Denis Bolivard, Cassius Smith and Johnsky Chrispin.  2012",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.113566,18.83685,0.0"
+               }
+            },
+            {
+               "name": "Water Mural Project",
+               "description": "Petionville, Haiti. In partnership with Sow A Seed for Timateck Orphanage 2012.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.285553,18.50983,0.0"
+               }
+            },
+            {
+               "name": "Life Giving Water",
+               "description": "New Orleans Healing Center, New Orleans. Open participation project in partnership with NOHC and Americanflat, NY. 2011.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.052386,29.968744,0.0"
+               }
+            },
+            {
+               "name": "Carruth Cellars Community Mosaic Mural",
+               "description": "Solana Beach, CA. Open participation mosaic mural created by community members of all ages. In partnership with Carruth Cellars Urban Winery. 2011.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-117.271148,32.991155,0.0"
+               }
+            },
+            {
+               "name": "Community Mosaic Benches",
+               "description": "La Montagne and Jacmel, Haiti, Series of nine sculptural mosaic benches created with community members, artists and trades people in southern Haiti to commemorate a shelter building project done by Medair International and USAID 2011.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Jacmel Memorial Mosaic Wall Project",
+               "description": "Jacmel, Haiti. Multi- part community mosaic mural in partnership with Art Creation Foundation for Children, 2011.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Hayes Valley Playground Seat Wall",
+               "description": "San Francisco, in partnership with the Trust For Public Land, 2011.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.427436,37.776038,0.0"
+               }
+            },
+            {
+               "name": "Tree of Life and Sea Spirits",
+               "description": "Jacmel, Haiti. Community mosaic murals in partnership with Art Creation for Children, 2010.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Lower Ninth Ward Village Mural",
+               "description": "New Orleans, LA. In partnership with L9WV and Community Built Association, 2010.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.013991,29.968271,0.0"
+               }
+            },
+            {
+               "name": "Ngong Hills",
+               "description": "Mbagathi, Kenya. Recycled glass mural with students at Rudolph Steiner School, 2009",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "36.638056,-1.4,0.0"
+               }
+            },
+            {
+               "name": "Mosaic Benches for New Orleans Public Schools",
+               "description": "New Orleans. Community project with 500 participants (125 benches) in partnership with Crescent City Art Project, 2009.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.071532,29.951065999999997,0.0"
+               }
+            },
+            {
+               "name": "NOLA WOW",
+               "description": "New Orleans, LA. Renegade community mosaic in 9th Ward, 2009.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.013991,29.968271,0.0"
+               }
+            },
+            {
+               "name": "Sego Lily Mural",
+               "description": "Park City, Utah. In partnership with Kimball's Young Artists Academy, 2009.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-111.497973,40.64606200000001,0.0"
+               }
+            },
+            {
+               "name": "Kefa- Coffee From Ethiopia to Jingletown",
+               "description": "Oakland, CA. In partnership with Institute of Mosaic Art, 2008.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.27111400000001,37.804364,0.0"
+               }
+            },
+            {
+               "name": "Potrero Hill Park Bench",
+               "description": "San Francisco, CA. In partnership with the Trust For Public Land, 2008.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.39781,37.755888,0.0"
+               }
+            },
+            {
+               "name": "Tiki Toms Mural",
+               "description": "Oakland, CA. In partnership with Institute of Mosaic Art, 2008.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.27111400000001,37.804364,0.0"
+               }
+            },
+            {
+               "name": "Fisherman’s Tale",
+               "description": "Nungua, Ghana, West Africa. In partnership with Cross Cultural Collaborative, 2007.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-0.07905700000000002,5.600786,0.0"
+               }
+            },
+            {
+               "name": "Home",
+               "description": "Belle Chase, LA. Post- Katrina mosaic mural with school children, in partnership with by Belle Chase Academy, Belle Chase, LA. Funded by a grant from the Arts Council of New Orleans, 2007.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.013626,29.825011,0.0"
+               }
+            },
+            {
+               "name": "Spirits and Folklore of Ghana",
+               "description": "Nungua, Ghana. In partnership with Cross Cultural Collaborative, 2004.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-0.088416,5.594962,0.0"
+               }
+            },
+            {
+               "name": "Adinkra Hene (King of Adinkra)",
+               "description": "Nungua, Ghana. In partnership with Cross Cultural Collaborative, 2004.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-0.088416,5.594962,0.0"
+               }
+            },
+            {
+               "name": "Respect the Earth",
+               "description": "Nungua, Ghana. In partnership with Cross Cultural Collaborative, 2004.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-0.088416,5.594962,0.0"
+               }
+            },
+            {
+               "name": "Creativity Arch and Teacher Training Pillars",
+               "description": "Nungua, Ghana. In partnership with CCC, 2002.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-0.088416,5.594962,0.0"
+               }
+            },
+            {
+               "name": "Ogue Be- History of Nungua",
+               "description": "Nungua, Ghana. In partnership with Cross Cultural Collaborative, 2001.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-0.088416,5.594962,0.0"
+               }
+            },
+            {
+               "name": "Community Garden Mural",
+               "description": "Novato, CA. Marin Head Start Program, 1999.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.569703,38.10742,0.0"
+               }
+            },
+            {
+               "name": "World Path",
+               "description": "Berkeley, CA. Mosaic mural with youth at Berkeley High School, 1998.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.27063300000002,37.868834,0.0"
+               }
+            },
+            {
+               "name": "Neighborhoods",
+               "description": "San Francisco, CA. Open participation project in conjunction with Precita Eyes Mural Festival, 1998.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.419416,37.77493,0.0"
+               }
+            },
+            {
+               "name": "Mazomainie School Mosaic Mural",
+               "description": "Mazomainie, WI. 1993.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-89.799012,43.178047,0.0"
+               }
+            },
+            {
+               "name": "Turtle Bathroom",
+               "description": "Todos Artes Art Center, Todos Santos, Mexico<br>Community project created as part of workshop with Donna Billick, Isaiah Zagar and Laurel True, 2009",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-110.22651,23.446362,0.0"
+               }
+            },
+            {
+               "name": "Water Lily",
+               "description": "San Francisco, CA,  sculptural form, Hayes Valley Playground, SF, SF Arts Commission in partnership with Trust For Public Land",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.427436,37.776038,0.0"
+               }
+            },
+            {
+               "name": "Generations",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/BHYJq8ZM2wpEu1UcPDUXyOLa64WSdPG98wgU4cheyv-RYY5PbUWCpogCPXQyK0dquVaJTd5bgRZA2332WwSN0-6HD0Pyc58ILjJZN6SzHqsdzFWFvhpb4SrTtMgESRETuCpFOgSlf6945yY\" height=\"200\" width=\"auto\" /><br><br>1700 50th Ave, Oakland, CA 94601<br>Oakland Firehouse 18, 2 mosaic murals, commissioned by Oakland Cultural Arts Department / City of Oakland, CA 2010",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/BHYJq8ZM2wpEu1UcPDUXyOLa64WSdPG98wgU4cheyv-RYY5PbUWCpogCPXQyK0dquVaJTd5bgRZA2332WwSN0-6HD0Pyc58ILjJZN6SzHqsdzFWFvhpb4SrTtMgESRETuCpFOgSlf6945yY"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.206581,37.772034,0.0"
+               }
+            },
+            {
+               "name": "Tree of Life Mural",
+               "description": "<img src=\"https://lh4.googleusercontent.com/proxy/BHYJq8ZM2wpEu1UcPDUXyOLa64WSdPG98wgU4cheyv-RYY5PbUWCpogCPXQyK0dquVaJTd5bgRZA2332WwSN0-6HD0Pyc58ILjJZN6SzHqsdzFWFvhpb4SrTtMgESRETuCpFOgSlf6945yY\" height=\"200\" width=\"auto\" /><br><br>1700 50th Ave, Oakland, CA 94601<br>Oakland Firehouse 18, mosaic murals, commissioned by Oakland Cultural Arts Department / City of Oakland, CA 2010",
+               "styleUrl": "#icon-102",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh4.googleusercontent.com/proxy/BHYJq8ZM2wpEu1UcPDUXyOLa64WSdPG98wgU4cheyv-RYY5PbUWCpogCPXQyK0dquVaJTd5bgRZA2332WwSN0-6HD0Pyc58ILjJZN6SzHqsdzFWFvhpb4SrTtMgESRETuCpFOgSlf6945yY"
+                  }
+               },
+               "Point": {
+                  "coordinates": "-122.206581,37.772034,0.0"
+               }
+            },
+            {
+               "name": "Paradise",
+               "description": "Chevron Clean Energy Solutions<br>San Francisco Corporate Offices <br>Hearts in San Francisco Project, commissioned by SF General Hospital Foundation 2010",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.40571700000001,37.751662,0.0"
+               }
+            },
+            {
+               "name": "Suns Series Sculptures",
+               "description": "San Francisco, CA, commissioned by SF Arts Commission",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.419957,37.778733,0.0"
+               }
+            },
+            {
+               "name": "UNOPS murals/ bench in Croix de bouquets:Hôpital Communautaire de Référence and Institut Haitien de Réhabilitation",
+               "description": "Croix de Bouquets, Haiti, 3 logo murals, signature entry mural and mosaic bench, Croix de Bouquets, Haiti, in partnership with UNOPS",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.226944,18.576111,0.0"
+               }
+            },
+            {
+               "name": "Mosaic Bridge at the Uptown",
+               "description": "Oakland CA, Commissioned by Forest City Development",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.271113,37.804363,0.0"
+               }
+            },
+            {
+               "name": "Kaleidoscope Park Benches",
+               "description": "Kaleidoscope Park Benches, Brentwood, CA, commissioned by Pulte Homes/ City of Brentwood, 2007",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-121.719457,37.964578,0.0"
+               }
+            },
+            {
+               "name": "Rainbow's End Park Benches",
+               "description": "Rainbow’s End Park Benches, Brentwood, CA commissioned by Pulte Homes/ City of Brentwood, 2007",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-121.724088,37.965428,0.0"
+               }
+            },
+            {
+               "name": "Woven Stories Benches",
+               "description": "Willow Park, Oakland, CA. C series of 9 inset mosaic benches commissioned by Oakland Cultural Arts Department/ City of Oakland",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.29648899999998,37.812127,0.0"
+               }
+            },
+            {
+               "name": "Lafayette Mercantile Fountain",
+               "description": "3595 Mt Diablo Blvd, Lafayette, CA commissioned by SZFM Design and Cortese",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.12318400000001,37.891380000000005,0.0"
+               }
+            },
+            {
+               "name": "Clouet Gardens Community Mural",
+               "description": "(in progress) in Partnership with Clouet Gardens Neighborhood Association, New Orleans, LA",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.041146,29.977806,0.0"
+               }
+            },
+            {
+               "name": "Jacmel Soleil Mural",
+               "description": "Jacmel Haiti, in partnership with Art Creation Foundation For Children",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Clinica La Fortuna Health and Life Mural",
+               "description": "La Fortuna, Costa Rica, in partnership with EcoTeach",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-84.645278,10.470833,0.0"
+               }
+            },
+            {
+               "name": "Carruth Cellars Community Mosaic Mural",
+               "description": "Solana Beach, CA. Open participation mosaic mural created by community members of all ages. In partnership with Carruth Cellars Urban Winery.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-117.269817,32.98893,0.0"
+               }
+            },
+            {
+               "name": "Community Mosaic Benches",
+               "description": "La Montagne and Jacmel, Haiti, Series of nine sculptural mosaic benches created with community members, artists and trades people in southern Haiti to commemorate a shelter building project done by Medair International and USAID",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.285553,18.50983,0.0"
+               }
+            },
+            {
+               "name": "Casa Segura Signage",
+               "description": "Oakland, CA, HIV Education and Prevention Project",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.27111400000001,37.804364,0.0"
+               }
+            },
+            {
+               "name": "Seascape Mural",
+               "description": "Marriott Hotel, Bel Harbor, FL",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-80.106099,26.107136,0.0"
+               }
+            },
+            {
+               "name": "Circles Mural",
+               "description": "San Francisco, CA, Marlton Manor Residential Hotel, San Francisco, CA, 2003",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.412261,37.783731,0.0"
+               }
+            },
+            {
+               "name": "Mosaic Donor Stones",
+               "description": "George Mark Children’s House, San Leandro, CA, 2003",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.11633,37.708652,0.0"
+               }
+            },
+            {
+               "name": "Milpitas City Seal",
+               "description": "Mosaic Mural at Milpitas City Hall, commissioned by Milpitas Alliance for the<br>Arts, Milpitas, CA",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-121.899094,37.432894,0.0"
+               }
+            },
+            {
+               "name": "Mission Creek Mural",
+               "description": "San Francisco, CA, commissioned by Madrina Group/ New Langton Arts",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.395135,37.773385,0.0"
+               }
+            },
+            {
+               "name": "Pat’s Bench",
+               "description": "Pleasanton, CA commissioned by City of Milpitas",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-121.874679,37.662431,0.0"
+               }
+            },
+            {
+               "name": "San Diego Children’s Hospital Sea Benches",
+               "description": "San Diego, CA, in partnership with Topher Delaney Landscape",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-117.157255,32.715329,0.0"
+               }
+            },
+            {
+               "name": "Duboce Park Playground",
+               "description": "San Francisco, CA commissioned by Friends of Duboce Park",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.43345300000001,37.769422000000006,0.0"
+               }
+            },
+            {
+               "name": "Orel Social Center",
+               "description": "Avignon, France, Community project with students, community members in partnership with Esprit Mosaique Studio. 2013",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "4.805528,43.94931700000001,0.0"
+               }
+            },
+            {
+               "name": "Dalton School",
+               "description": "Manhattan, NY<br>Spring Mural Community project with students, staff and parents. In partnership with Carol Bowen. 2012",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-73.95509,40.781628,0.0"
+               }
+            },
+            {
+               "name": "Institute of Mosaic Art",
+               "description": "Berkeley, CA  Mosaic mural created during Laurel True's Mosaic Mural Making Intensive. 2013",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.29766800000002,37.86522,0.0"
+               }
+            },
+            {
+               "name": "The Green Project",
+               "description": "New Orleans, LA Press Street at St Claude<br>Community project with professional development students. 2013",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.047159,29.96826,0.0"
+               }
+            },
+            {
+               "name": "True Mosaic Studio Facade (in progress)",
+               "description": "2801 Chartres Street, New Orleans, LA <br>True Mosaic Studio Facade (in progress)",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.049518,29.963579,0.0"
+               }
+            },
+            {
+               "name": "Lale Mural",
+               "description": "Fatoush Restaurant 2372 St Claude Ave, New Orleans, LA<br>Lale Mural, 2011",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.052376,29.968607,0.0"
+               }
+            },
+            {
+               "name": "Water Drops Mosaic Installation",
+               "description": "2372 St Claude Ave, New Orleans, LA <br>New Orleans Healing Center<br>Water Drops Mosaic Installation, 2012<br>Community project",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-90.052376,29.968607,0.0"
+               }
+            },
+            {
+               "name": "Free Wood Mural",
+               "description": "Derby Ave & Chapman St<br>Oakland, CA <br>Free Wood Mural",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-122.23122400000001,37.772632,0.0"
+               }
+            },
+            {
+               "name": "Ria's Bluebird Restaurant",
+               "description": "421 Memorial Dr SE, Atlanta, GA <br>Ria's Bluebird Restaurant, 2000<br>Mural in collaboration with Lillian Sizemore<br>Outdoor tables and fountain.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-84.373643,33.746577,0.0"
+               }
+            },
+            {
+               "name": "Mwen Gen Yon Rev/ I Have A Dream Mural",
+               "description": "Jacmel, Haiti, <br>Rue Barenquilla<br>Design by Bruno Rene, Laurel True and youth from Art Creation Foundation For Children, 2013.",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Base Fresh Up",
+               "description": "Jacmel, Haiti <br>Design by Bruno Rene, Laurel True and youth from Art Creation Foundation For Children. 2013",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Mosaique Jacmel Projects",
+               "description": "Jacmel, Haiti <br>Over 20 mosaic murals and seating areas<br>Created by youth at Art Creation Foundation For Children under direction of Laurel True.<br>2011-2013",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-72.53405,18.238072,0.0"
+               }
+            },
+            {
+               "name": "Mother Fools Exterior Signage",
+               "description": "1101 Williamson St, Madison, WI <br>Mother Fools Exterior Signage, 1994",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-89.365742,43.081941,0.0"
+               }
+            },
+            {
+               "name": "Daisy Cafe (formerly Arthouse Cafe)",
+               "description": "2827 Atwood Ave, Madison, WI <br>Daisy Cafe (formerly Arthouse Cafe), 1994",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-89.342483,43.093644,0.0"
+               }
+            },
+            {
+               "name": "Magic Garden Panel: Swan and Mariposa Flowers",
+               "description": "1st International Urban Mosaic Intervention<br>Puente Alto, Chile<br>2014",
+               "styleUrl": "#icon-102",
+               "Point": {
+                  "coordinates": "-70.566667,-33.616667,0.0"
+               }
+            }
+         ]
+      },
+      "Style": [
+         {
+            "@id": "icon-102-normal",
+            "IconStyle": {
+               "scale": "1.1",
+               "Icon": {
+                  "href": "http://www.gstatic.com/mapspro/images/stock/102-pink.png"
+               },
+               "hotSpot": {
+                  "@x": "16",
+                  "@y": "31",
+                  "@xunits": "pixels",
+                  "@yunits": "insetPixels"
+               }
+            },
+            "LabelStyle": {
+               "scale": "0.0"
+            }
+         },
+         {
+            "@id": "icon-102-highlight",
+            "IconStyle": {
+               "scale": "1.1",
+               "Icon": {
+                  "href": "http://www.gstatic.com/mapspro/images/stock/102-pink.png"
+               },
+               "hotSpot": {
+                  "@x": "16",
+                  "@y": "31",
+                  "@xunits": "pixels",
+                  "@yunits": "insetPixels"
+               }
+            },
+            "LabelStyle": {
+               "scale": "1.1"
+            }
+         }
+      ],
+      "StyleMap": {
+         "@id": "icon-102",
+         "Pair": [
+            {
+               "key": "normal",
+               "styleUrl": "#icon-102-normal"
+            },
+            {
+               "key": "highlight",
+               "styleUrl": "#icon-102-highlight"
+            }
+         ]
+      }
+   }
+}

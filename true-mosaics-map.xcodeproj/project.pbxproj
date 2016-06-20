@@ -14,6 +14,9 @@
 		C32B72601D185F5F00B67EF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C32B725E1D185F5F00B67EF7 /* LaunchScreen.storyboard */; };
 		C32B726B1D185F5F00B67EF7 /* true_mosaics_mapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B726A1D185F5F00B67EF7 /* true_mosaics_mapTests.swift */; };
 		C32B72761D185F5F00B67EF7 /* true_mosaics_mapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B72751D185F5F00B67EF7 /* true_mosaics_mapUITests.swift */; };
+		C32B72851D1865F700B67EF7 /* TMS.json in Resources */ = {isa = PBXBuildFile; fileRef = C32B72841D1865F600B67EF7 /* TMS.json */; settings = {ASSET_TAGS = (); }; };
+		C32B72871D18689E00B67EF7 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B72861D18689E00B67EF7 /* Artwork.swift */; settings = {ASSET_TAGS = (); }; };
+		C32B72891D186D0500B67EF7 /* VCMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B72881D186D0500B67EF7 /* VCMapView.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		C32B72711D185F5F00B67EF7 /* true-mosaics-mapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "true-mosaics-mapUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C32B72751D185F5F00B67EF7 /* true_mosaics_mapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = true_mosaics_mapUITests.swift; sourceTree = "<group>"; };
 		C32B72771D185F5F00B67EF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C32B72841D1865F600B67EF7 /* TMS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TMS.json; sourceTree = "<group>"; };
+		C32B72861D18689E00B67EF7 /* Artwork.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
+		C32B72881D186D0500B67EF7 /* VCMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCMapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +103,15 @@
 		C32B72541D185F5F00B67EF7 /* true-mosaics-map */ = {
 			isa = PBXGroup;
 			children = (
+				C32B72831D18624C00B67EF7 /* Art Supporting Files */,
 				C32B72551D185F5F00B67EF7 /* AppDelegate.swift */,
 				C32B72571D185F5F00B67EF7 /* ViewController.swift */,
 				C32B72591D185F5F00B67EF7 /* Main.storyboard */,
 				C32B725C1D185F5F00B67EF7 /* Assets.xcassets */,
 				C32B725E1D185F5F00B67EF7 /* LaunchScreen.storyboard */,
 				C32B72611D185F5F00B67EF7 /* Info.plist */,
+				C32B72861D18689E00B67EF7 /* Artwork.swift */,
+				C32B72881D186D0500B67EF7 /* VCMapView.swift */,
 			);
 			path = "true-mosaics-map";
 			sourceTree = "<group>";
@@ -123,6 +132,14 @@
 				C32B72771D185F5F00B67EF7 /* Info.plist */,
 			);
 			path = "true-mosaics-mapUITests";
+			sourceTree = "<group>";
+		};
+		C32B72831D18624C00B67EF7 /* Art Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C32B72841D1865F600B67EF7 /* TMS.json */,
+			);
+			name = "Art Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C32B72851D1865F700B67EF7 /* TMS.json in Resources */,
 				C32B72601D185F5F00B67EF7 /* LaunchScreen.storyboard in Resources */,
 				C32B725D1D185F5F00B67EF7 /* Assets.xcassets in Resources */,
 				C32B725B1D185F5F00B67EF7 /* Main.storyboard in Resources */,
@@ -255,7 +273,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C32B72891D186D0500B67EF7 /* VCMapView.swift in Sources */,
 				C32B72581D185F5F00B67EF7 /* ViewController.swift in Sources */,
+				C32B72871D18689E00B67EF7 /* Artwork.swift in Sources */,
 				C32B72561D185F5F00B67EF7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
